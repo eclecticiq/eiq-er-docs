@@ -32,7 +32,7 @@ This chapter includes these topics:
 Before you begin installation of the PolyLogyx server, ensure you read the
 following information.
 
--   Server installation is supported only on the Ubuntu platform version 16.04 (or later) .
+-   Server installation is supported only on the Ubuntu platform version 16.04 (or later).
 
 -   Recommended configuration for the PoC (supports 10-25 clients)
 
